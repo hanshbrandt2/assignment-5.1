@@ -10,9 +10,9 @@ This project analyzes survey data to understand what makes drivers accept or rej
 About **57%** of all coupons were accepted, which means context and customer behavior definitely matter.
 
 
-##################################################
-### Bar Coupons
-##################################################
+--------------------------------------------------
+### Bar Coupon
+--------------------------------------------------
 
 Bar coupons had the most interesting patterns with **41%** acceptance rate overall.
 
@@ -28,9 +28,9 @@ Bar coupons had the most interesting patterns with **41%** acceptance rate overa
 **Passenger type matters:**
 - Drivers with kids in the car rarely accept bar coupons
 
-#########################################################
+----------------------------------------------------
 ### Coffee House Coupons
-#########################################################
+----------------------------------------------------
 
 Coffee coupons had **50%** acceptance rate.
 
