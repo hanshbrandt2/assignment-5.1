@@ -13,6 +13,7 @@ About **57%** of all coupons were accepted, which means context and customer beh
 ##################################################
 ### Bar Coupons
 ##################################################
+
 Bar coupons had the most interesting patterns with **41%** acceptance rate overall.
 
 **Visit frequency is the biggest factor:**
@@ -30,6 +31,7 @@ Bar coupons had the most interesting patterns with **41%** acceptance rate overa
 #########################################################
 ### Coffee House Coupons
 #########################################################
+
 Coffee coupons had **50%** acceptance rate.
 
 - Morning hours (10AM) work better than afternoon/evening
