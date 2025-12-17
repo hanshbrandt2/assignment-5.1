@@ -43,3 +43,8 @@ build/
 # images/*.png
 # images/*.jpg
 
+# Setup/helper scripts
+setup_*.sh
+*_setup.sh
+SETUP_*.md
+
